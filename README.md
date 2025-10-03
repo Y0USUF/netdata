@@ -1,10 +1,10 @@
 ## 🚀 Task: Monitor System Resources Using Netdata
 
 ### **Objective**
-[cite_start]The primary goal was to install and run the **Netdata** monitoring agent via **Docker** to visualize system and application performance metrics in real-time.
+The primary goal was to install and run the **Netdata** monitoring agent via **Docker** to visualize system and application performance metrics in real-time.
 
 ### **Outcome**
-[cite_start]This task helped to achieve a practical understanding of **lightweight monitoring** for servers and applications.
+This task helped to achieve a practical understanding of **lightweight monitoring** for servers and applications.
 
 ***
 
